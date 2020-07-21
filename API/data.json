@@ -1,12 +1,6 @@
 {
   "students": [
     {
-      "id": 1,
-      "name": "Enola Rowe",
-      "class": "tony@mcu.com",
-      "address": "131 Oswaldo Street"
-    },
-    {
       "id": 2,
       "name": "Timmothy Lueilwitz",
       "age": "15",
@@ -35,6 +29,12 @@
       "age": "23",
       "address": "Houston",
       "id": 7
+    },
+    {
+      "name": "Jude Kanye",
+      "age": "40",
+      "address": "34, Manhattan",
+      "id": 8
     }
   ]
 }
